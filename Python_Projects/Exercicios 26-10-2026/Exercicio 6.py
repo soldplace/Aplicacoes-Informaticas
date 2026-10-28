@@ -18,9 +18,9 @@ for deslocamento in deslocamentos:
     if deslocamento == 0:
          parado += 1
     # PERGUNTAR AO STOR QUAL DOS VALORES (-1 E 1) É A ESQUERDA E A DIREITA
-    if deslocamento == 1:
-        direita += 1
     if deslocamento == -1:
+        direita += 1
+    if deslocamento == 1:
         esquerda += 1
 print("Deslocamento Direita: ", direita)
 print("Deslocamento Esquerda: ", esquerda)
