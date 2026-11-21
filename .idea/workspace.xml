@@ -5,33 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="461ab4a6-9476-4b45-b941-3b0899159fb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "soldplace"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;soldplace&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/soldplace/Aplicacoes-Informaticas.git",
-    "accountId": "197daaa2-9d5e-4b12-8467-10b6e56208da"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/soldplace/Aplicacoes-Informaticas.git&quot;,
+    &quot;accountId&quot;: &quot;197daaa2-9d5e-4b12-8467-10b6e56208da&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
@@ -118,6 +122,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "advanced.settings",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -136,6 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1792581391555</updated>
       <workItem from="1795289691371" duration="3241000" />
+      <workItem from="1795293375777" duration="888000" />
     </task>
     <servers />
   </component>
