@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461ab4a6-9476-4b45-b941-3b0899159fb2" name="Changes" comment="" />
+    <list default="true" id="461ab4a6-9476-4b45-b941-3b0899159fb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Projects/Ficha 9/Henrique_FT9_Exerc5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026/Henrique_FT9_Exerc5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,77 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "soldplace"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/soldplace/Aplicacoes-Informaticas.git",
+    "accountId": "197daaa2-9d5e-4b12-8467-10b6e56208da"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000013377" />
+      <entry key="S10" value="1.000007727288619" />
+      <entry key="S30" value="1.057050754978512" />
+      <entry key="S60" value="1.5333826152802477" />
+      <entry key="M2" value="2.679280707139802" />
+      <entry key="M5" value="6.51997101362204" />
+      <entry key="M10" value="16.684174709658855" />
+      <entry key="M15" value="27.21553100220546" />
+      <entry key="M30" value="49.308500347074535" />
+      <entry key="H1" value="69.01386637087097" />
+      <entry key="H2" value="82.41247221105628" />
+      <entry key="H4" value="90.26032627694572" />
+      <entry key="D1" value="97.47695818045109" />
+      <entry key="W1" value="98.78073352148542" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.8454667949375535E-165" />
+      <entry key="S5" value="1.8798978392905923E-66" />
+      <entry key="S10" value="1.3710936653965664E-33" />
+      <entry key="S30" value="1.1109360028293147E-11" />
+      <entry key="S60" value="3.3330874684238995E-6" />
+      <entry key="M2" value="0.001830413640281252" />
+      <entry key="M5" value="0.0912792662440945" />
+      <entry key="M10" value="0.4500341865532156" />
+      <entry key="M15" value="0.8579194761490458" />
+      <entry key="M30" value="1.7732404593083222" />
+      <entry key="H1" value="2.63418553441935" />
+      <entry key="H2" value="3.237225659002319" />
+      <entry key="H4" value="3.5960334762279773" />
+      <entry key="D1" value="3.92928488317768" />
+      <entry key="W1" value="3.9898113855831707" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1792444060019784" />
+      <entry key="MS500" value="0.7090700178397293" />
+      <entry key="S2" value="0.9176398823113651" />
+      <entry key="S5" value="0.9662041804836727" />
+      <entry key="S10" value="0.9829639351262136" />
+      <entry key="S30" value="1.0497098269267653" />
+      <entry key="S60" value="1.5228908766811475" />
+      <entry key="M2" value="2.6673519723098837" />
+      <entry key="M5" value="6.5884639246699965" />
+      <entry key="M10" value="17.097575216921467" />
+      <entry key="M15" value="28.03211315558906" />
+      <entry key="M30" value="51.043767094954376" />
+      <entry key="H1" value="71.62147416361236" />
+      <entry key="H2" value="85.63384814322404" />
+      <entry key="H4" value="93.84768765495633" />
+      <entry key="D1" value="101.40468344012571" />
+      <entry key="W1" value="102.77031915771906" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -25,12 +103,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Henrique_FT9_Exerc5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "to.speed.mode.migration.done": "true"
   }
@@ -38,7 +124,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
       </set>
     </attachedChunks>
   </component>
@@ -49,10 +135,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792581391555</updated>
+      <workItem from="1795289691371" duration="3241000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Aplicacoes_Informaticas$Henrique_FT9_Exerc5.coverage" NAME="Henrique_FT9_Exerc5 Coverage Results" MODIFIED="1795292809640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Projects/Ficha 9 18-11-2026" />
   </component>
 </project>
