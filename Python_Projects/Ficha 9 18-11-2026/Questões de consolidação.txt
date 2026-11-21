@@ -1,0 +1,15 @@
+29. Qual é a principal diferença entre uma lista e um tuplo?
+Resposta: Uma lista pode ser alterada, um tuplo não
+30. Porque é que um set é adequado para eliminar elementos repetidos?
+Resposta: porque se forem fornecidos mais de 2 ou mais valores iguais, só será contado como um
+31. É possível aceder ao terceiro elemento de um set através de um índice? Justifica.
+Resposta: não, porque os sets não são ordenados
+32. Num dicionário, qual é a diferença entre uma chave e um valor?
+Resposta: a chave é o primeiro valor, e o valor é o valor que corresponde À chave
+33. O que acontece quando atribuímos um novo valor a uma chave que já existe?
+Resposta: o valor é substituído
+34. Qual é a diferença entre os métodos keys(), values() e items()?
+Resposta: o método keys() retorna as chaves, o método values() retorna os valores e o método items() retorna as chaves e os valores
+35. Qual é a estrutura mais adequada para guardar a nota de cada aluno, associando-a ao seu número?
+Justifica.
+Resposta: um dicionário, porque podemos associar um número a um nome (em string) e esse nome a uma nota (integer ou string)
